@@ -17,5 +17,6 @@ Everyone should bring the following to class:
 3. In the CSS, follow the instructions as a class to complete Tonks' portfolio.
 
 ### Project: Practice on Your Own
-Open the main HTML file and complete the instructions in the comments. Use the content you created in your prework!
-Open the main CSS file and complete the instructions in the comments. 
+1. Open the main HTML file and complete the instructions in the comments. Use the content you created in your prework!
+2. Open the main CSS file and complete the instructions in the comments.
+3. When you are done, be sure to push your code to a gh-pages branch so you have a live site!
